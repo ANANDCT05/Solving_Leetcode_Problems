@@ -29,26 +29,26 @@ class Solution {
 
     public static int  check(int nums[],int e,int k){
 int c=0;
-        for(int i=0;i<nums.length;i++){
-                
-            for(int j=i+1;j<nums.length;j++){
+       
+int i=0;
+for(int j=1;j<nums.length;j++){
 
-                int d=Math.abs(nums[i]-nums[j]);
+    int d=nums[j]-nums[i];
 
-                if(d<=e){
-                    c++;
+    if(d<=e){
+        c=c+j-i;
+    }
 
-                    if(c==k){
-                        return c;
-                    }
-                   
-                }
-
-                if(d>e){
-                    break;
-                }
-            }
+    else{
+        while(i<j && nums[j]-nums[i]>e){
+            i++;
         }
-        return c;
+
+c=c+(j-i);
+
+    }
+}
+
+return c;
     }
 }
