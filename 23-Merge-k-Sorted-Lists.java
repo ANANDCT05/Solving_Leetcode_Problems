@@ -28,14 +28,14 @@ class Solution {
          
             }
         }
-        if(l1.size()>=1){
+     //   if(l1.size()>=1){
 
-        l1.get(l1.size()-1).next=null;
-        }
+    //    l1.get(l1.size()-1).next=null;
+      //  }
 
         
 int n=l1.size();
-System.out.println(n);
+
         List<ListNode>l3=new ArrayList<>();
         for(int i=0;i<n;i++){
             ListNode l4=down(l1,l1.size()-1);
@@ -49,7 +49,7 @@ System.out.println(n);
         if(l3.size()==0){
             return null;
         }
-        
+
 l3.get(l3.size()-1).next=null;
         return l3.get(0);
     }
@@ -62,9 +62,9 @@ l3.get(l3.size()-1).next=null;
   if(p>=0){
 
     if(l1.get(p).val>l1.get(s).val){
-           ListNode t=l1.get(p);
-           l1.set(p,l1.get(s));
-           l1.set(s,t);
+         int t=l1.get(p).val;
+         l1.get(p).val=l1.get(s).val;
+         l1.get(s).val=t;
            upheap(l1,p);
 
     }
