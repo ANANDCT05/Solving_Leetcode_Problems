@@ -2,8 +2,7 @@ class Solution {
     public boolean lemonadeChange(int[] bills) {
        int f=0;
        int t=0;
-       int tw=0;
-
+       
        for(int i=0;i<bills.length;i++){
 
     if(bills[i]==5){
