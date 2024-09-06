@@ -12,10 +12,16 @@ class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         
 
-        HashMap<Integer,Integer> h1=new HashMap<>();
+    int max=0;
 
         for(int i=0;i<nums.length;i++){
-            h1.put(nums[i],1);
+        if(nums[i]>max){
+            max=nums[i];
+        }
+        }
+        int ht[]=new int[max+1];
+        for(int i=0;i<nums.length;i++){
+            ht[nums[i]]++;
         }
         ListNode prev=null;
         ListNode m=head;
@@ -23,7 +29,7 @@ class Solution {
 
         while(m!=null){
             n=m.next;
-            if(h1.get(m.val)!=null){
+            if(m.val <=max &&ht[m.val]>0){
                 if(prev==null){
                     head=n;
                 }
