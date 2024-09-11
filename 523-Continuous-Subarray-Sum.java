@@ -8,8 +8,9 @@ h1.put(0,-1);
         for(int i=0;i<nums.length;i++){
     sum=sum+(nums[i]);
     int r=sum%k;
-    if(h1.get(r)!=null){
-        int d=i-h1.get(r);
+    Integer a=h1.get(r);
+    if(a!=null){
+        int d=i-a;
         if(d>1){
             return true;
         }
