@@ -7,17 +7,17 @@ class Solution {
 
     }
 
-    long r=sum%p;
+    int r= (int)(sum%p);
     if(sum<p){
         return -1;
     }
     if(r==0){
         return 0;
     }
-    long d=p-r;
-HashMap<Long,Integer> h1=new HashMap<>();
+    int d=p-r;
+HashMap<Integer,Integer> h1=new HashMap<>();
 
-h1.put((long)0,-1);
+h1.put(0,-1);
 
  sum=0;
 int min=nums.length;
@@ -25,10 +25,10 @@ int min=nums.length;
 for(int i=0;i<nums.length;i++){
 sum=sum+nums[i];
 
-long e=sum%p;
+int e= (int)(sum%p);
 
 if(e>=r){
-    long f=e-r;
+    int f=e-r;
 
     if(h1.get(f)!=null){
         min=Math.min(min,i-h1.get(f));
@@ -37,7 +37,7 @@ if(e>=r){
 }
 
 else{
-    long v=d+e;
+    int v=d+e;
 
     if(h1.get(v)!=null){
         min=Math.min(min,i-h1.get(v));
