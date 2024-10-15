@@ -13,9 +13,9 @@ int i=height.length-2;
       
 
      if(t>0){
-      int n=Math.min(height[i],l);
+     
       while(t>0){
-        c+= n-st[t];
+        c+= l-st[t];
         t--;
       }
       st[0]=height[i];
@@ -55,9 +55,9 @@ int i=height.length-2;
         if(st[t]>=l){
 
             if(t1>0){
-             int m=Math.min(st[t],l);
+            
              while(t1>0){
-                c+=(m-st1[t1]);
+                c+=(l-st1[t1]);
                 t1--;
              }
 
