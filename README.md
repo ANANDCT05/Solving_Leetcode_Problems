@@ -46,4 +46,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
