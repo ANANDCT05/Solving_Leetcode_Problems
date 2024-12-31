@@ -1,6 +1,6 @@
 class Solution {
     public int mincostTickets(int[] days, int[] costs) {
-        Integer dp[][]=new Integer[days.length][days[days.length-1]+31];
+        Integer dp[][]=new Integer[days.length][days[days.length-1]+30];
         return check(0,days,costs,dp,0);
     }
 
@@ -9,10 +9,10 @@ class Solution {
         if(i==d.length){
             return 0;
         }
+int e=s>d[i]?s:0;
+        if(dp[i][e]!=null){
 
-        if(dp[i][s]!=null){
-
-            return dp[i][s];
+            return dp[i][e];
         }
 
         if(s>d[i]){
@@ -31,7 +31,7 @@ class Solution {
 
             int ans=Math.min(one,Math.min(fo,se));
 
-            return dp[i][s]=ans;
+            return dp[i][e]=ans;
         }
     }
 }
