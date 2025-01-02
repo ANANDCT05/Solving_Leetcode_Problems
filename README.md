@@ -92,4 +92,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
