@@ -4,20 +4,17 @@ class Solution {
 
         int prm[]=new int[nums.length];
 int ans=Integer.MAX_VALUE;
-        int min=nums[0];
+    
      prm[0]=Integer.MAX_VALUE;
-        for(int i=1;i<nums.length;i++){
-
-            ans=Math.min(nums[i-1],ans);
-            prm[i]=ans;
-        }
+        
         int prg[]=new int[nums.length];
 
         Stack<Integer> s1=new Stack<>();
         prg[0]=-1;
         s1.push(0);
         for(int i=1;i<nums.length;i++){
-
+ans=Math.min(nums[i-1],ans);
+            prm[i]=ans;
             while(!s1.isEmpty() && nums[s1.peek()]<=nums[i]){
                 s1.pop();
             }
