@@ -81,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Topological Sort
@@ -90,10 +91,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Math
@@ -116,4 +119,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+## Hash Table
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
