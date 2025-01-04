@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -111,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -119,8 +122,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
