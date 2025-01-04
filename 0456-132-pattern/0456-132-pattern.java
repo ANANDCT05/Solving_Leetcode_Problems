@@ -34,7 +34,7 @@ ans=Math.min(nums[i-1],ans);
 
             if(prg[i]!=-1){
                 
-                if(prm[prg[i]]<nums[i] && prm[prg[i]]<nums[prg[i]]){
+                if(prm[prg[i]]<nums[i]){
                     return true;
                 }
             }
