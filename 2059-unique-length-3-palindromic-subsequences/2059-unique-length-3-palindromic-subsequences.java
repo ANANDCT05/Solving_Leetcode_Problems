@@ -1,6 +1,6 @@
 class Solution {
-    int s=-1;
-    int e=-1;
+    int start=-1;
+    int end=-1;
     Solution(){
 
     }
@@ -9,28 +9,28 @@ class Solution {
         
   
     int arr[][]=new int[s.length()][26];
-    int f[]=new int[26];
-    Solution e[]=new Solution[26];
+    int freq[]=new int[26];
+    Solution pairs[]=new Solution[26];
     for(int i=0;i<s.length();i++){
    
    
         int in=s.charAt(i)-'a';
-        f[in]++;
+        freq[in]++;
 
-        if(f[in]>=1){
-        if(e[in]!=null){
-            e[in].e=i;
+        
+        if(pairs[in]!=null){
+            pairs[in].end=i;
         }
 
         else{
             Solution n=new Solution();
-            n.s=i;
-            e[in]=n;
+            n.start=i;
+            pairs[in]=n;
         }
-        }
-        int c[]=Arrays.copyOf(f,f.length);
-        arr[i]=c;
-    } 
+        
+        int currprefix[]=Arrays.copyOf(freq,freq.length);
+        arr[i]=currprefix;
+    }
 
     
 
@@ -38,25 +38,25 @@ class Solution {
     int tot=0;
     
   for(int i=0;i<26;i++){
-    Solution c=e[i];
+    Solution cur=pairs[i];
 
-    if(c!=null){
+    if(cur!=null){
 
-        if(c.e!=-1){
-            int cou=0;
-            int m[]=arr[c.e-1];
-            int l[]=arr[c.s];
+        if(cur.end!=-1){
+            int count=0;
+            int end[]=arr[cur.end-1];
+            int start[]=arr[cur.start];
           for(int k=0;k<26;k++){
-       int  d=m[k]-l[k];
+    
       
 
-         if(d>0){
-            cou=cou+1;
+         if(end[k]-start[k]>0){
+            count=count+1;
          }
           
           }
 
-          tot=tot+cou;
+          tot=tot+count;
         
         }
     }
