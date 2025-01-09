@@ -53,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [1524-string-matching-in-an-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -164,4 +166,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
