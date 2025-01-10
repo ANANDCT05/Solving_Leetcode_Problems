@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0221-maximal-square](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
+| [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -107,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
+| [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -150,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
+| [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
