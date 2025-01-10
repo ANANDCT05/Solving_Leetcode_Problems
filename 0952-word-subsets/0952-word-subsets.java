@@ -20,21 +20,21 @@ for(int l=0;l<26;l++){
 }
 
       }
-int ho[]=new int[26];
+
       for(int i=0;i<words1.length;i++){
    String s=words1[i];
         int len=s.length();
         for(int j=0;j<len;j++){
             int ind=s.charAt(j)-'a';
-            ho[ind]++;
+            tem[ind]++;
         }
 int e=0;
         for(int l=0;l<26;l++){
 
-            if(ht[l]<=ho[l]){
+            if(ht[l]<=tem[l]){
                 e++;
             }
-ho[l]=0;
+tem[l]=0;
         }
 
         if(e==26){
