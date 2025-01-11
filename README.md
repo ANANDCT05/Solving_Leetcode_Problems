@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
 |  |
@@ -109,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0005-longest-palindromic-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -153,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Binary Search
 |  |
@@ -185,4 +188,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
