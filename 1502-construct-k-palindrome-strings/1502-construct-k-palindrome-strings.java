@@ -10,9 +10,9 @@ if(s.length()==k){
     return true;
 }
  int ht[]=new int[26];
-        for(int i=0;i<s.length();i++){
+        for(char c:s.toCharArray()){
 
-            int ind=s.charAt(i)-'a';
+            int ind=c-'a';
             ht[ind]++;
         }
 int g=0;
