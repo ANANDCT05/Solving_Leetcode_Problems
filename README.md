@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -99,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Topological Sort
 |  |
@@ -158,6 +160,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
