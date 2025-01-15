@@ -94,11 +94,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [2509-minimize-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
