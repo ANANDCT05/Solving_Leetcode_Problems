@@ -5,21 +5,27 @@ int xor=0;
      for(int i=0;i<nums2.length;i++){
         xor=xor^(nums2[i]);
      }   
-     for(int i=0;i<nums1.length;i++){
+    int aor=0;
+    for(int i=0;i<nums1.length;i++){
+        aor=aor^(nums1[i]);
+    }
 
-        if((nums2.length%2)==1){
-            nums1[i]=nums1[i]^(xor);
+    if(nums2.length%2==1){
+
+        if(nums1.length%2==0){
+    return aor;
         }
         else{
-          nums1[i]=xor;
+            return aor^xor;
         }
-     }
-
-     int f=0;
-     for(int i=0;i<nums1.length;i++){
-        f=f^(nums1[i]);
-     }
-
-     return f;
+    }
+    else{
+        if(nums1.length%2==0){
+            return 0;
+        }
+        else{
+            return xor;
+        }
+    }
     }
 }
