@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2685-first-completely-painted-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Topological Sort
 |  |
