@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
