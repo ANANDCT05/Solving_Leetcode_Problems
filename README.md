@@ -87,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0207-course-schedule](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
@@ -106,6 +108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0207-course-schedule) |
+| [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 ## String
 |  |
 | ------- |
