@@ -5,16 +5,17 @@ class Solution {
         int maxy=-1;
         for(int i=0;i<stones.length;i++){
             maxx=Math.max(maxx,stones[i][0]);
-            maxy=Math.max(maxx,stones[i][1]);
+            maxy=Math.max(maxy,stones[i][1]);
         }
-
+        
         int par[]=new int[maxx+maxy+2];
         int siz[]=new int[maxx+maxy+2];
         for(int i=0;i<par.length;i++){
            par[i]=i;
            siz[i]=1;
         }
-        int maxr=0;
+      
+       
 
         for(int i=0;i<stones.length;i++){
             int v=findpar(stones[i][0],par);
@@ -54,4 +55,6 @@ class Solution {
 
         return par[x]=findpar(par[x],par);
     }
+  
 }
+
