@@ -96,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
@@ -131,6 +132,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Greedy
@@ -155,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
 ## String
 |  |
