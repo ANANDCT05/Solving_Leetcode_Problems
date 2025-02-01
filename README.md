@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2792-neighboring-bitwise-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3429-special-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Queue
 |  |
