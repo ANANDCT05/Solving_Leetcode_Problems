@@ -281,4 +281,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
