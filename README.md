@@ -277,4 +277,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
