@@ -291,4 +291,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0181-employees-earning-more-than-their-managers](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1908-recyclable-and-low-fat-products](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
