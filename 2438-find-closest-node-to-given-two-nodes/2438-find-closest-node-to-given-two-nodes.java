@@ -2,9 +2,9 @@ class Solution {
     public int closestMeetingNode(int[] edges, int node1, int node2) {
         
         int d[]=new int[edges.length];
-        Arrays.fill(d,Integer.MIN_VALUE);
-        int v=0;
-    d[node1]=0;
+      
+        int v=1;
+    d[node1]=1;
         int s=node1;
         while(true){
         
@@ -13,7 +13,7 @@ class Solution {
           break;
          }
          v++;
-         if(d[g]!=Integer.MIN_VALUE){
+         if(d[g]!=0){
             break;
          }
          d[g]=v;
@@ -23,7 +23,7 @@ class Solution {
 
         int ans=Integer.MAX_VALUE;
         int n=-1;
-        int m=0;
+        v=1;
          s=node2;
         
         while(true){
@@ -32,8 +32,8 @@ class Solution {
        break;
       }
     
-      if(d[g]!=Integer.MIN_VALUE ){
-        int f=Math.max(d[g],m);
+      if(d[g]!=0 ){
+        int f=Math.max(d[g],v);
         if(f<ans){
             ans=f;
             n=g;
@@ -45,7 +45,7 @@ class Solution {
       }
       d[g]=Integer.MAX_VALUE;
   s=edges[g];
-      m++;
+      v++;
         }
 
         if(n==-1){
