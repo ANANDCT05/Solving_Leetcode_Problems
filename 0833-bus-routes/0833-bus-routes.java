@@ -39,7 +39,7 @@ if(source==target){
        
        
     int v[]=new int[n];
-  int e[]=new int[n];
+  
   Arrays.fill(v,Integer.MAX_VALUE);
 
 Queue<Integer>q1=new LinkedList<>();
@@ -49,7 +49,7 @@ Queue<Integer>q1=new LinkedList<>();
         return -1;
     }
     for(int i=0;i<l1.size();i++){
-        e[l1.get(i)]=-1;
+        v[l1.get(i)]=-1;
     }
     l1=h1.get(source);
     if(l1==null){
@@ -57,6 +57,9 @@ Queue<Integer>q1=new LinkedList<>();
     }
     for(int i=0;i<l1.size();i++){
        q1.add(l1.get(i));
+       if(v[l1.get(i)]==-1){
+        return 1;
+       }
        v[l1.get(i)]=0;
     }
     int s=1;
@@ -68,14 +71,15 @@ Queue<Integer>q1=new LinkedList<>();
       for(int j=0;j<m;j++){
           
           int nn=q1.poll();
-if(e[nn]==-1){
-    return s;
-}
+
           for(int kk:a1.get(nn)){
 
             if(v[kk]>s){
                 v[kk]=s;
                 q1.add(kk);
+            }
+            if(v[kk]==-1){
+                return s+1;
             }
           }
       }
