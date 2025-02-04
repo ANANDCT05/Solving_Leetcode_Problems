@@ -44,7 +44,7 @@ class Solution {
       }
      }
 
-     return (int)c[n-1];
+     return c[n-1];
  
     
 
