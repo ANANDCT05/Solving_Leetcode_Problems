@@ -1,14 +1,14 @@
 class Solution {
     public int countPaths(int n, int[][] roads) {
         
-     ArrayList<ArrayList<Pair<Integer,Long>>> a1=new ArrayList<>();
+     ArrayList<ArrayList<Pair<Integer,Integer>>> a1=new ArrayList<>();
      
      for(int i=0;i<n;i++){
         a1.add(new ArrayList<>());
      }
      for(int i=0;i<roads.length;i++){
-        Pair <Integer,Long>p1=new Pair<>(roads[i][1],(long)roads[i][2]);
-        Pair<Integer,Long>p2=new Pair<>(roads[i][0],(long)roads[i][2]);
+        Pair <Integer,Integer>p1=new Pair<>(roads[i][1],roads[i][2]);
+        Pair<Integer,Integer>p2=new Pair<>(roads[i][0],roads[i][2]);
         a1.get(roads[i][0]).add(p1);
         a1.get(roads[i][1]).add(p2);
      }
@@ -28,7 +28,7 @@ class Solution {
      while(!q1.isEmpty()){
       
       Pair<Integer,Long>d1=q1.poll();
-      for(  Pair<Integer,Long> p1:a1.get(d1.getKey())){
+      for(  Pair<Integer,Integer> p1:a1.get(d1.getKey())){
         int g=p1.getKey();
         long di=(d1.getValue()+p1.getValue());
         if(d[g] >di){
