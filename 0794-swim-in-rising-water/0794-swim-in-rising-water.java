@@ -2,9 +2,7 @@ class Solution {
     public int swimInWater(int[][] grid) {
         
         int d[][]=new int[grid.length][grid.length];
-        for(int m[]:d){
-            Arrays.fill(m,Integer.MAX_VALUE);
-        }
+     
 
     int ro[]={1,-1,0,0};
     int co[]={0,0,1,-1};
@@ -30,7 +28,7 @@ class Solution {
 
             int max=Math.max(grid[nx][ny],arr[2]);
 
-            if(d[nx][ny]>max){
+            if(d[nx][ny] ==0 || d[nx][ny]>max){
                 d[nx][ny]=max;
                 p1.add(new int[]{nx,ny,max});
             }
