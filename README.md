@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0312-burst-balloons](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
@@ -120,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -143,6 +145,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0684-redundant-connection](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -162,6 +165,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -313,4 +317,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-more-than-5-students](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0596-classes-more-than-5-students) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
