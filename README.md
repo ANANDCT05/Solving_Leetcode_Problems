@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1876-map-of-highest-peak) |
@@ -240,6 +241,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0833-bus-routes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0833-bus-routes) |
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -283,6 +285,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
