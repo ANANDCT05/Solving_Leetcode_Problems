@@ -5,12 +5,12 @@ class Solution {
       HashMap<Integer,Integer>h2=new HashMap<>();
 int res[]=new int[queries.length];
       for(int i=0;i<queries.length;i++){
-
-        if(h1.get(queries[i][0])!=null){
-             int r=h1.get(queries[i][0]);
-            h2.put(r,h2.get(r)-1);
-            if(h2.get(r)==0){
-                h2.remove(r);
+   Integer val=h1.get(queries[i][0]);
+        if(val!=null){
+         
+            h2.put(val,h2.get(val)-1);
+            if(h2.get(val)==0){
+                h2.remove(val);
             }
 
         }
