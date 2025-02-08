@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
+| [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1876-map-of-highest-peak) |
@@ -108,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -126,6 +128,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
@@ -139,6 +142,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
@@ -233,6 +237,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
