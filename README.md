@@ -205,6 +205,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2465-shifting-letters-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
@@ -229,6 +230,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
