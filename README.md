@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0833-bus-routes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
+| [1022-unique-paths-iii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -104,6 +105,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
+| [1022-unique-paths-iii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1022-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1022-unique-paths-iii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1022-unique-paths-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -245,6 +248,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0407-trapping-rain-water-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0854-making-a-large-island) |
+| [1022-unique-paths-iii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1022-unique-paths-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
