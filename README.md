@@ -111,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0684-redundant-connection) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -237,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3447-clear-digits) |
@@ -376,4 +378,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Tree
+|  |
+| ------- |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
