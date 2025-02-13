@@ -101,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Greedy
 |  |
@@ -319,6 +321,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0139-word-break) |
+| [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Counting
 |  |
 | ------- |
