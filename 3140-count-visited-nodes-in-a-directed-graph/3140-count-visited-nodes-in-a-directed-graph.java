@@ -40,12 +40,7 @@ class Solution {
             return anss;
         }
         }
-       
-        if(anss>0){
-            ans[i]=anss+1;
-       
-
-        }
+       ans[i]=anss+1;
 
         return ans[i];
 
