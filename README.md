@@ -123,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2439-longest-cycle-in-a-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0456-132-pattern](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0794-swim-in-rising-water](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0794-swim-in-rising-water) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -333,6 +337,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Sorting
 |  |
 | ------- |
