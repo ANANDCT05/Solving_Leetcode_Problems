@@ -43,7 +43,7 @@ class Solution {
        
         if(anss>0){
             ans[i]=anss+1;
-            System.out.println(i);
+       
 
         }
 
