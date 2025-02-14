@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2448-count-number-of-bad-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -70,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2434-design-a-number-container-system](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
@@ -180,6 +182,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2509-minimize-xor](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2509-minimize-xor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
@@ -344,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Database
