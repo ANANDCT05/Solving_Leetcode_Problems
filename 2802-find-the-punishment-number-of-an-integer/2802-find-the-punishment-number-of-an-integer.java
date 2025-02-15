@@ -49,6 +49,9 @@ return ans;
         return true;
        }
        }
+       else{
+        break;
+       }
     }
 
     return false;
