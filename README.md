@@ -109,6 +109,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0494-target-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0494-target-sum) |
 | [1022-unique-paths-iii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1022-unique-paths-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2050-count-good-numbers](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
