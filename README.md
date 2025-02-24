@@ -127,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -147,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1558-course-schedule-iv) |
@@ -290,6 +292,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -385,6 +388,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2434-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
@@ -409,9 +413,11 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
