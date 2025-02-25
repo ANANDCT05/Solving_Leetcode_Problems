@@ -5,8 +5,8 @@ class Solution {
 
         int odd=0;
         int even=0;
-       long ans=0;
-          int c=0;
+       int  ans=0;
+         
 
     
 
