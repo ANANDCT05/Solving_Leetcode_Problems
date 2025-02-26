@@ -2,7 +2,7 @@ class Solution {
     public int maxAbsoluteSum(int[] nums) {
         
         int max=Integer.MIN_VALUE;
-        int max1=Integer.MIN_VALUE;
+        int max1=Integer.MAX_VALUE;
        int sum=0;
 
        int sum1=0;
@@ -17,12 +17,12 @@ class Solution {
            if(sum1>0){
             sum1=0;
            }
-           max1=Math.max(Math.abs(sum1),max1);
+           max1=Math.min(sum1,max1);
 
            
         }
 
-        return Math.max(max1,max);
+        return Math.max(Math.abs(max1),max);
         
     }
 }
