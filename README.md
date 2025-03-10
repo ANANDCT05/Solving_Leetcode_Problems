@@ -70,6 +70,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2868-continuous-subarrays) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -317,6 +319,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
 |  |
 | ------- |
