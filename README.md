@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1240-stone-game-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1364-tuple-with-same-product](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1380-number-of-closed-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -112,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1025-minimum-cost-for-tickets](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1240-stone-game-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -254,6 +256,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -263,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1240-stone-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -444,4 +448,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
