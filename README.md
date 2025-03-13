@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3429-special-array-i](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/0794-swim-in-rising-water) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/ANANDCT05/Solving_Leetcode_Problems/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## String Matching
 |  |
